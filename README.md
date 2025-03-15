@@ -14,6 +14,8 @@ This repo contains some useful commands and ideas for linux troubleshooting, per
 - [How to build and debug linux kernel modules (easier than you think!)](testing-kernel-modules.md)
 - [How to use bpftrace](/bpftrace.md)
 - [Some PHP stuff](/misc.md)
+- [All gdb options](https://cgi.cse.unsw.edu.au/~learn/debugging/modules/all_gdb/)
+- [Sample gdbinit config file options](https://gist.github.com/CocoaBeans/1879270)
 
 
 ## Good Reads
